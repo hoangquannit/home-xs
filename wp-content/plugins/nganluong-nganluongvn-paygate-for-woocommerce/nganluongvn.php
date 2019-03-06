@@ -31,7 +31,7 @@ function woocommerce_NganLuongVN_init(){
 
         function __construct(){
 
-            $this -> icon = 'https://www.nganluong.vn//css/newhome/img/logos/logo-nganluong.png'; // Icon URL
+            $this -> icon = 'https://www.nganluong.vn/css/newhome/img/logos/logo-nganluong.png'; // Icon URL
             $this -> id = 'nganluong';
             $this -> method_title = 'Ngân Lượng';
             $this -> has_fields = false;
