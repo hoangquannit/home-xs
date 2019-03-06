@@ -923,7 +923,7 @@ ul.currencies_list li a:hover {
 .top-cart-content {
 	display: none;
 	position: absolute;
-	top: 32px;
+	top: 36px;
 	right: 0px;
 	background: #fff;
 	padding: 0;
@@ -14247,7 +14247,7 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAIklEQVQIW2
 }
 .product-view {
 	background: none repeat scroll 0 0 #fff;
-	overflow: visible;
+	overflow: hidden;
 	position: relative;
 }
 .product-full {
