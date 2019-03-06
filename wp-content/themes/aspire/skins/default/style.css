@@ -14247,7 +14247,7 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAIklEQVQIW2
 }
 .product-view {
 	background: none repeat scroll 0 0 #fff;
-	overflow: hidden;
+	overflow: visible;
 	position: relative;
 }
 .product-full {
