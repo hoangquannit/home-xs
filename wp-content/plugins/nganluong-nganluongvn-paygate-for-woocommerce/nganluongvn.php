@@ -158,7 +158,7 @@ function woocommerce_NganLuongVN_init(){
             $discount = 0;
             $tax = $order->get_cart_tax();
             //$tax = 0;
-            $fee_shipping = $order->get_total_shipping();
+            $fee_shipping =  $order->get_shipping_tax();
 
 
             /*  $product_names = '';
