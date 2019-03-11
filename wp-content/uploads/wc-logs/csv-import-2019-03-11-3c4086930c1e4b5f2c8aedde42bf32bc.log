@@ -1,0 +1,94 @@
+2019-03-11T08:03:03+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2019-03-11T08:03:03+00:00 DEBUG Parsing products CSV.
+2019-03-11T08:03:03+00:00 DEBUG Finished parsing products CSV.
+2019-03-11T08:03:03+00:00 DEBUG ---
+2019-03-11T08:03:03+00:00 DEBUG Processing products.
+2019-03-11T08:03:03+00:00 DEBUG > Row 1 - preparing for import.
+2019-03-11T08:03:03+00:00 DEBUG > Inserting Khóa Mã Số Thẻ Cảm Ứng MH: KR8171
+2019-03-11T08:03:03+00:00 DEBUG > Inserted - post ID is 2537.
+2019-03-11T08:03:07+00:00 DEBUG > Finished importing post ID 2537.
+2019-03-11T08:03:07+00:00 DEBUG > Row 2 - preparing for import.
+2019-03-11T08:03:07+00:00 DEBUG > Inserting - Màu sắc: Bạc
+2019-03-11T08:03:08+00:00 DEBUG > Inserted - post ID is 2538.
+2019-03-11T08:03:09+00:00 DEBUG > Finished importing post ID 2538.
+2019-03-11T08:03:09+00:00 DEBUG > Row 3 - preparing for import.
+2019-03-11T08:03:09+00:00 DEBUG > Inserting - Cách mở khóa: 99 thẻ Mifare
+2019-03-11T08:03:09+00:00 DEBUG > Inserted - post ID is 2539.
+2019-03-11T08:03:10+00:00 DEBUG > Finished importing post ID 2539.
+2019-03-11T08:03:10+00:00 DEBUG > Row 4 - preparing for import.
+2019-03-11T08:03:10+00:00 DEBUG > Inserting - Cấu tạo: Hợp kim
+2019-03-11T08:03:10+00:00 DEBUG > Inserted - post ID is 2540.
+2019-03-11T08:03:11+00:00 DEBUG > Finished importing post ID 2540.
+2019-03-11T08:03:11+00:00 DEBUG > Row 5 - preparing for import.
+2019-03-11T08:03:11+00:00 DEBUG > Inserting - Pin: Sử dụng 4 viên pin AAA
+2019-03-11T08:03:11+00:00 DEBUG > Inserted - post ID is 2541.
+2019-03-11T08:03:12+00:00 DEBUG > Finished importing post ID 2541.
+2019-03-11T08:03:12+00:00 DEBUG > Row 6 - preparing for import.
+2019-03-11T08:03:12+00:00 DEBUG > Inserting - Thích hợp: Văn phòng
+2019-03-11T08:03:12+00:00 DEBUG > Inserted - post ID is 2542.
+2019-03-11T08:03:13+00:00 DEBUG > Finished importing post ID 2542.
+2019-03-11T08:03:13+00:00 DEBUG > Row 7 - preparing for import.
+2019-03-11T08:03:13+00:00 DEBUG > Inserting - Đố cửa: 32-50 mm (dày) x 95 mm (rộng)
+2019-03-11T08:03:13+00:00 DEBUG > Inserted - post ID is 2543.
+2019-03-11T08:03:13+00:00 DEBUG > Finished importing post ID 2543.
+2019-03-11T08:03:13+00:00 DEBUG > Row 8 - preparing for import.
+2019-03-11T08:03:13+00:00 DEBUG > Inserting - Kích thước: 170 mm (dài) x 65 mm (rộng) x 22mm (dày)
+2019-03-11T08:03:14+00:00 DEBUG > Inserted - post ID is 2544.
+2019-03-11T08:03:14+00:00 DEBUG > Finished importing post ID 2544.
+2019-03-11T08:03:14+00:00 DEBUG > Row 9 - preparing for import.
+2019-03-11T08:03:14+00:00 DEBUG > Inserting - Thiết kế và công nghệ: AUSTRALIA&quot;
+2019-03-11T08:03:15+00:00 DEBUG > Inserted - post ID is 2545.
+2019-03-11T08:03:15+00:00 DEBUG > Finished importing post ID 2545.
+2019-03-11T08:03:15+00:00 DEBUG Finished processing products.
+2019-03-11T08:09:17+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2019-03-11T08:09:17+00:00 DEBUG Parsing products CSV.
+2019-03-11T08:09:17+00:00 DEBUG Finished parsing products CSV.
+2019-03-11T08:09:17+00:00 DEBUG ---
+2019-03-11T08:09:17+00:00 DEBUG Processing products.
+2019-03-11T08:09:17+00:00 DEBUG > Row 1 - preparing for import.
+2019-03-11T08:09:17+00:00 DEBUG > Inserting Khóa Mã Số Thẻ Cảm Ứng MH: KR8171
+2019-03-11T08:09:17+00:00 DEBUG > Inserted - post ID is 2547.
+2019-03-11T08:09:18+00:00 DEBUG > Finished importing post ID 2547.
+2019-03-11T08:09:18+00:00 DEBUG Finished processing products.
+2019-03-11T08:40:03+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2019-03-11T08:40:03+00:00 DEBUG Parsing products CSV.
+2019-03-11T08:40:03+00:00 DEBUG Finished parsing products CSV.
+2019-03-11T08:40:03+00:00 DEBUG ---
+2019-03-11T08:40:03+00:00 DEBUG Processing products.
+2019-03-11T08:40:03+00:00 DEBUG > Row 1 - preparing for import.
+2019-03-11T08:40:03+00:00 DEBUG > Inserting Khóa Mã Số Thẻ Cảm Ứng MH: KR8171
+2019-03-11T08:40:03+00:00 DEBUG > Inserted - post ID is 2592.
+2019-03-11T08:40:05+00:00 DEBUG > Finished importing post ID 2592.
+2019-03-11T08:40:05+00:00 DEBUG Finished processing products.
+2019-03-11T08:46:54+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2019-03-11T08:46:54+00:00 DEBUG Parsing products CSV.
+2019-03-11T08:46:54+00:00 DEBUG Finished parsing products CSV.
+2019-03-11T08:46:54+00:00 DEBUG ---
+2019-03-11T08:46:54+00:00 DEBUG Processing products.
+2019-03-11T08:46:54+00:00 DEBUG > Row 1 - preparing for import.
+2019-03-11T08:46:54+00:00 DEBUG > Inserting Khóa Mã Số Thẻ Cảm Ứng MH: KR8171
+2019-03-11T08:46:54+00:00 DEBUG > Inserted - post ID is 2596.
+2019-03-11T08:46:55+00:00 DEBUG > Finished importing post ID 2596.
+2019-03-11T08:46:55+00:00 DEBUG Finished processing products.
+2019-03-11T08:51:59+00:00 DEBUG ---[ New Import ] PHP Memory: 512 MB, WP Memory: 40 MB
+2019-03-11T08:51:59+00:00 DEBUG Parsing products CSV.
+2019-03-11T08:51:59+00:00 DEBUG Finished parsing products CSV.
+2019-03-11T08:51:59+00:00 DEBUG ---
+2019-03-11T08:51:59+00:00 DEBUG Processing products.
+2019-03-11T08:51:59+00:00 DEBUG > Row 1 - preparing for import.
+2019-03-11T08:51:59+00:00 DEBUG > Inserting Khóa Mã Số Thẻ Cảm Ứng MH: KR8171
+2019-03-11T08:51:59+00:00 DEBUG > Inserted - post ID is 2598.
+2019-03-11T08:52:00+00:00 DEBUG > > Importing image "http://xsmart.local/wp-content/uploads/2019/03/ygm-40.jpg"
+2019-03-11T08:52:00+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://xsmart.local/wp-content/uploads/2019/03/ygm-40.jpg"
+2019-03-11T08:52:00+00:00 DEBUG > > Imported image "http://xsmart.local/wp-content/uploads/2019/03/ygm-40.jpg"
+2019-03-11T08:52:00+00:00 DEBUG > > Images set
+2019-03-11T08:52:00+00:00 DEBUG > Finished importing post ID 2598.
+2019-03-11T08:52:00+00:00 DEBUG > Row 2 - preparing for import.
+2019-03-11T08:52:00+00:00 DEBUG > Inserting Khóa điện tử MH: KR8159
+2019-03-11T08:52:01+00:00 DEBUG > Inserted - post ID is 2599.
+2019-03-11T08:52:02+00:00 DEBUG > > Importing image "http://xsmart.local/wp-content/uploads/2019/03/KR8159-Khóa-điện-tử.png"
+2019-03-11T08:52:02+00:00 DEBUG > > (Image already in the site)Inserted image attachment "http://xsmart.local/wp-content/uploads/2019/03/KR8159-Khóa-điện-tử.png"
+2019-03-11T08:52:02+00:00 DEBUG > > Imported image "http://xsmart.local/wp-content/uploads/2019/03/KR8159-Khóa-điện-tử.png"
+2019-03-11T08:52:02+00:00 DEBUG > > Images set
+2019-03-11T08:52:02+00:00 DEBUG > Finished importing post ID 2599.
+2019-03-11T08:52:02+00:00 DEBUG Finished processing products.
