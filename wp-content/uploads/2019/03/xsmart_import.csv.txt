@@ -1,0 +1,705 @@
+"sku","post_title","post_name","post_excerpt","post_content","post_status","menu_order","visibility","stock_status","images"
+"KR8171","Khóa Mã Số Thẻ Cảm Ứng MH: KR8171","khoa-ma-so-the-cam-ung-kr8171","- Ưu điểm: Dễ dàng thay thế khóa tay nắm tròn
+- Màu sắc: Bạc
+- Cách mở khóa: 99 thẻ Mifare, 9 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp
+- Cấu tạo: Hợp kim
+- Pin: Sử dụng 4 viên pin AAA, thời lượng sử dụng pin từ 6 tháng đến 1 năm tuỳ vào tần suất sử dụng
+- Thích hợp: Văn phòng, căn hộ
+- Đố cửa: 32-50 mm (dày) x 95 mm (rộng)
+- Kích thước: 170 mm (dài) x 65 mm (rộng) x 22mm (dày)
+- Thiết kế và công nghệ: AUSTRALIA","- Ưu điểm: Dễ dàng thay thế khóa tay nắm tròn
+- Màu sắc: Bạc
+- Cách mở khóa: 99 thẻ Mifare, 9 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp
+- Cấu tạo: Hợp kim
+- Pin: Sử dụng 4 viên pin AAA, thời lượng sử dụng pin từ 6 tháng đến 1 năm tuỳ vào tần suất sử dụng
+- Thích hợp: Văn phòng, căn hộ
+- Đố cửa: 32-50 mm (dày) x 95 mm (rộng)
+- Kích thước: 170 mm (dài) x 65 mm (rộng) x 22mm (dày)
+- Thiết kế và công nghệ: AUSTRALIA","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/KR8171-Khóa-mã-số.png"
+"KR8159","Khóa điện tử MH: KR8159","khoa-dien-tu-kr8159","- Chức năng: khóa đôi: Khóa bằng 3 chốt. Nâng tay nắm để bật chốt an toàn khi khóa cửa
+- Màu sắc: Vàng hoặc Bạc
+- Cách mở khóa: 50 thẻ RFID, 20 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp
+- Cấu tạo: Hợp kim
+- Pin: Sử dụng 8 viên pin AAA, thời lượng sử dụng pin từ 06 tháng đến 01 năm tùy vào tần suất sử dụng, có chức năng đèn báo pin yếu
+- Thích hợp: Phù hợp cho căn hộ cao cấp, nhà phố, biệt thự
+- Đố cửa: 40 mm (dày) x 90 mm (rộng)
+- Kích thước: 256 mm (dài) x 60 mm (rộng) x 16mm (dày)
+- Thiết kế và công nghệ: AUSTRALIA","- Chức năng: khóa đôi: Khóa bằng 3 chốt. Nâng tay nắm để bật chốt an toàn khi khóa cửa
+- Màu sắc: Vàng hoặc Bạc
+- Cách mở khóa: 50 thẻ RFID, 20 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp
+- Cấu tạo: Hợp kim
+- Pin: Sử dụng 8 viên pin AAA, thời lượng sử dụng pin từ 06 tháng đến 01 năm tùy vào tần suất sử dụng, có chức năng đèn báo pin yếu
+- Thích hợp: Phù hợp cho căn hộ cao cấp, nhà phố, biệt thự
+- Đố cửa: 40 mm (dày) x 90 mm (rộng)
+- Kích thước: 256 mm (dài) x 60 mm (rộng) x 16mm (dày)
+- Thiết kế và công nghệ: AUSTRALIA","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/KR8159-Khóa-điện-tử.png"
+"KR8161","Khóa mã số thẻ cảm ứng MH: KR8161","khoa-ma-so-the-cam-ung-kr8161","-Màu sắc: Bạc
+-Cách mở khóa: 118 thẻ cảm ứng, 09 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp.
+-Cấu tạo: Hợp kim
+-Pin: Sử dụng pin AA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo hiệu pin yếu
+-Thích hợp: Căn hộ cao cấp, nhà phố, biệt thự
+-Đố cửa: 35mm (dày) x 90mm
+-Kích thước: 280mm (dài) x 74mm (rộng) x 25mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA","-Màu sắc: Bạc
+-Cách mở khóa: 118 thẻ cảm ứng, 09 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp.
+-Cấu tạo: Hợp kim
+-Pin: Sử dụng pin AA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo hiệu pin yếu
+-Thích hợp: Căn hộ cao cấp, nhà phố, biệt thự
+-Đố cửa: 35mm (dày) x 90mm
+-Kích thước: 280mm (dài) x 74mm (rộng) x 25mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/KR8161-Khóa-mã-số.png"
+"KR3028W","Khóa mã số thẻ cảm ứng MH: KR3028W","khoa-ma-so-the-cam-ung-kr3028w","-Màu sắc: Bạc
+-Cách mở khóa: 200 thẻ RFID, 08 mã số, 08 remote
+-Cấu tạo: Hợp kim kẽm
+-Pin: Sử dụng pin AA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu, kết nối pin dự phòng
+-Thích hợp: Phù hợp cho văn phòng, shop
+-Đố cửa: 38mm-55mm (dày) x 100mm (rộng)
+-Kích thước: 255mm (dài) x 80mm (rộng) x 25mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA
+-Bảo hành: 24 tháng","-Màu sắc: Bạc
+-Cách mở khóa: 200 thẻ RFID, 08 mã số, 08 remote
+-Cấu tạo: Hợp kim kẽm
+-Pin: Sử dụng pin AA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu, kết nối pin dự phòng
+-Thích hợp: Phù hợp cho văn phòng, shop
+-Đố cửa: 38mm-55mm (dày) x 100mm (rộng)
+-Kích thước: 255mm (dài) x 80mm (rộng) x 25mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA
+-Bảo hành: 24 tháng","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/KR3028.png"
+"KR8010","Khóa mã số thẻ cảm ứng MH: KR8010","khoa-ma-so-the-cam-ung-kr8010","-Màu sắc: Vàng, Titan
+-Cách mở khóa: 118 thẻ, 9 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp
+-Cấu tạo: Hợp kim
+-Pin: Sử dụng pin AAA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu
+-Thích hợp: Phù hợp cho căn hộ cao cấp, nhà phố, biệt thự
+-Đố cửa: 35mm (dày) x 90mm (rộng)
+-Kích thước: 251mm (dài) x 56mm (rộng) x 10mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA
+-Bảo hành: 24 tháng","-Màu sắc: Vàng, Titan
+-Cách mở khóa: 118 thẻ, 9 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp
+-Cấu tạo: Hợp kim
+-Pin: Sử dụng pin AAA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu
+-Thích hợp: Phù hợp cho căn hộ cao cấp, nhà phố, biệt thự
+-Đố cửa: 35mm (dày) x 90mm (rộng)
+-Kích thước: 251mm (dài) x 56mm (rộng) x 10mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA
+-Bảo hành: 24 tháng","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/KR8010.png"
+"KR3653W","Khóa mã số thẻ cảm ứng MH: KR3653W","khoa-ma-so-the-cam-ung-kr3653w","-Màu sắc: Bạc
+-Cách mở khóa: 80 thẻ, 8 mã số, 8 remote (20 met) và chìa khóa cơ trong trường hợp khẩn cấp
+-Cấu tạo: Hợp kim
+-Pin: Sử dụng pin AAA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu, kết nối pin dự phòng
+-Thích hợp: Phù hợp cho văn phòng, căn hộ cao cấp
+-Đố cửa: 30mm (dày) x 95mm (rộng)
+-Kích thước: 160mm (dài) x 70mm (rộng) x 20mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA
+-Bảo hành: 24 tháng","-Màu sắc: Bạc
+-Cách mở khóa: 80 thẻ, 8 mã số, 8 remote (20 met) và chìa khóa cơ trong trường hợp khẩn cấp
+-Cấu tạo: Hợp kim
+-Pin: Sử dụng pin AAA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu, kết nối pin dự phòng
+-Thích hợp: Phù hợp cho văn phòng, căn hộ cao cấp
+-Đố cửa: 30mm (dày) x 95mm (rộng)
+-Kích thước: 160mm (dài) x 70mm (rộng) x 20mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA
+-Bảo hành: 24 tháng","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/KR3653.png"
+"KR3274W","Khóa điện tử MH: KR3274W","khoa-dien-tu-kr3274w","-Màu sắc: Bạc
+-Cách mở khóa: 198 thẻ, 8 mã số, 10 remote và chìa khóa cơ trong trường hợp khẩn cấp
+-Cấu tạo: Hợp kim
+-Pin: Sử dụng pin AA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo hiệu pin yếu, kết nối pin dự phòng
+-Thích hợp: Phù hợp cho biệt thự, phòng Giám Đốc, căn hộ cao cấp
+-Đố cửa: 38mm (dày) x 100mm (rộng)
+-Kích thước: 290mm (dài) x 72mm (rộng) x 20mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA
+-Bảo hành: 24 tháng","-Màu sắc: Bạc
+-Cách mở khóa: 198 thẻ, 8 mã số, 10 remote và chìa khóa cơ trong trường hợp khẩn cấp
+-Cấu tạo: Hợp kim
+-Pin: Sử dụng pin AA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo hiệu pin yếu, kết nối pin dự phòng
+-Thích hợp: Phù hợp cho biệt thự, phòng Giám Đốc, căn hộ cao cấp
+-Đố cửa: 38mm (dày) x 100mm (rộng)
+-Kích thước: 290mm (dài) x 72mm (rộng) x 20mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA
+-Bảo hành: 24 tháng","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/KR3274.png"
+"iSee IC102W","Chuông camera hồng ngoại MH: iSee IC102W","chuong-camera-hong-ngoai-isee-ic102w","Chức năng: Đàm thoại bằng hình ảnh khi có khách nhấn chuông
+• Kết hợp với khóa điện tử
+• Thiết bị kiểm soát để mở cửa từ xa
+• Chủ động xem, lưu trữ hình ảnh, video khi cần
+• Có chức năng báo khi phát hiện chuyển động
+• Có led hồng ngoại hỗ trợ xem hình ảnh vào ban đêm
+Lắp đặt: Có thể lắp ngoài trời hay trong nhà tùy thích
+Màu sắc: Trắng bạc
+Cách mở khóa:
+• Kết hợp với khóa điện tử
+• mở khóa thông qua ứng dụng trên smartphone
+Kích thước: Nút nhấn camera (Bao gồm chân đế): Dài(158mm) x Rộng(81mm) x Sâu(62mm)
+• Chuông báo: Dài(126mm) x Rộng(78mm) x Sâu(38mm)","Chức năng: Đàm thoại bằng hình ảnh khi có khách nhấn chuông
+• Kết hợp với khóa điện tử
+• Thiết bị kiểm soát để mở cửa từ xa
+• Chủ động xem, lưu trữ hình ảnh, video khi cần
+• Có chức năng báo khi phát hiện chuyển động
+• Có led hồng ngoại hỗ trợ xem hình ảnh vào ban đêm
+Lắp đặt: Có thể lắp ngoài trời hay trong nhà tùy thích
+Màu sắc: Trắng bạc
+Cách mở khóa:
+• Kết hợp với khóa điện tử
+• mở khóa thông qua ứng dụng trên smartphone
+Kích thước: Nút nhấn camera (Bao gồm chân đế): Dài(158mm) x Rộng(81mm) x Sâu(62mm)
+• Chuông báo: Dài(126mm) x Rộng(78mm) x Sâu(38mm)","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/IC102W.png"
+"IC 100W-3S","Chuông cửa chính MH: IC 100W-3S","chuong-cua-chinh-ic100w-3s","-Ưu điểm: Màn hình 7 inch siêu mỏng, bàn phím cảm ứng. Camera hồng ngoại nhìn ban đêm, chống chói chống vô nước. Có 16 kiểu chuông để lựa chọn, có nút chỉnh âm lượng, màu sắc
+-Chức năng: Tự động ghi lại hình ảnh khi khách hàng bấm chuông. Nói chuyện và xem hình khách ngoài cửa trước khi quyết định nhấn nút mở cửa tự động từ trong nhà bằng một nút nhấn
+-Nguồn: Điện áp: 12VDC
+-Màu sắc: Trắng
+-Cấu tạo: Bề mặt camera được thiết kế theo công nghệ Nano chống chói ánh nắng mặt trời làm cho hình ảnh rõ nét
+-Kích thước: Kích thước màn hình: 152mm(Cao) x 220mm(Ngang)
+-Thiết kế và công nghệ: AUSTRALIA
+-Thiết lập hệ thống: - Khi nhấn chuông từ bên ngoài thì ở chuông vẫn có âm báo như ở màn hình trong nhà - Trên màn hình có 2 sự lựa chọn để mở khóa: + LOCK1: Kích nguồn ra 12VDC + LOCK2: Kích đóng tiếp điểm(phù hợp cho cổng tự động, khóa điện khác dùng tiếp điểm điều khiển)
+-Bảo hành: 12 Tháng","-Ưu điểm: Màn hình 7 inch siêu mỏng, bàn phím cảm ứng. Camera hồng ngoại nhìn ban đêm, chống chói chống vô nước. Có 16 kiểu chuông để lựa chọn, có nút chỉnh âm lượng, màu sắc
+-Chức năng: Tự động ghi lại hình ảnh khi khách hàng bấm chuông. Nói chuyện và xem hình khách ngoài cửa trước khi quyết định nhấn nút mở cửa tự động từ trong nhà bằng một nút nhấn
+-Nguồn: Điện áp: 12VDC
+-Màu sắc: Trắng
+-Cấu tạo: Bề mặt camera được thiết kế theo công nghệ Nano chống chói ánh nắng mặt trời làm cho hình ảnh rõ nét
+-Kích thước: Kích thước màn hình: 152mm(Cao) x 220mm(Ngang)
+-Thiết kế và công nghệ: AUSTRALIA
+-Thiết lập hệ thống: - Khi nhấn chuông từ bên ngoài thì ở chuông vẫn có âm báo như ở màn hình trong nhà - Trên màn hình có 2 sự lựa chọn để mở khóa: + LOCK1: Kích nguồn ra 12VDC + LOCK2: Kích đóng tiếp điểm(phù hợp cho cổng tự động, khóa điện khác dùng tiếp điểm điều khiển)
+-Bảo hành: 12 Tháng","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/IC-100-W.png"
+"EL02W","KHÓA ĐIỆN MH: EL02W","khoa-dien-el02w","-Chức năng: Chức năng mở cửa độc lập : Sử dụng 2000 thẻ RFID, 1 mã số, 7 remote (20m), bàn phím điều khiển và chìa cơ. (Phù hợp với cổng sắt)
+-Nguồn: Sử dụng điện áp 12 VDC.
+-Màu sắc: Xám.
+-Cách mở khóa: Kết hợp với chuông cửa màn hình, kiểm soát ra vào cửa.
+-Cấu tạo: Làm bằng hợp kim dày 2mm, tăng mức độ an ninh cho người sử dụng. Có miếng bảo vệ giúp hạn chế mức độ ảnh hưởng khi va chạm.
+-Kích thước: 130mm (dài) x 110mm (rộng) x 45mm (dày).
+-Thiết kế và công nghệ: AUSTRALIA.
+-Bảo hành: 1 năm.","-Chức năng: Chức năng mở cửa độc lập : Sử dụng 2000 thẻ RFID, 1 mã số, 7 remote (20m), bàn phím điều khiển và chìa cơ. (Phù hợp với cổng sắt)
+-Nguồn: Sử dụng điện áp 12 VDC.
+-Màu sắc: Xám.
+-Cách mở khóa: Kết hợp với chuông cửa màn hình, kiểm soát ra vào cửa.
+-Cấu tạo: Làm bằng hợp kim dày 2mm, tăng mức độ an ninh cho người sử dụng. Có miếng bảo vệ giúp hạn chế mức độ ảnh hưởng khi va chạm.
+-Kích thước: 130mm (dài) x 110mm (rộng) x 45mm (dày).
+-Thiết kế và công nghệ: AUSTRALIA.
+-Bảo hành: 1 năm.","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/EL02W.png"
+"FP3251W","Khóa Vân Tay MH: FP3251W","khoa-van-tay-fp325w","-Ưu điểm: Bàn phím cảm ứng sang trọng.
+-Màu sắc: Vàng hoặc Đồng.
+-Cách mở khóa: 199 vân tay, 08 mã số, 08 remote, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp.
+-Cấu tạo: Hợp kim, kính cường lực.
+-Pin: Sử dụng pin AA tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu và kết nối pin dự phòng.
+-Thích hợp: Biệt thự, phòng Giám Đốc, căn hộ sang trọng.
+-Đố cửa: 38mm (dày) x 115mm (rộng).
+-Kích thước: 310mm (dài) x 75mm (rộng) x 35mm (dày).
+-Thiết kế và công nghệ: Đến từ AUSTRALIA.","-Ưu điểm: Bàn phím cảm ứng sang trọng.
+-Màu sắc: Vàng hoặc Đồng.
+-Cách mở khóa: 199 vân tay, 08 mã số, 08 remote, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp.
+-Cấu tạo: Hợp kim, kính cường lực.
+-Pin: Sử dụng pin AA tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu và kết nối pin dự phòng.
+-Thích hợp: Biệt thự, phòng Giám Đốc, căn hộ sang trọng.
+-Đố cửa: 38mm (dày) x 115mm (rộng).
+-Kích thước: 310mm (dài) x 75mm (rộng) x 35mm (dày).
+-Thiết kế và công nghệ: Đến từ AUSTRALIA.","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/FP3251.png"
+"FP8330W","Khóa Vân Tay MH: FP8330W","khoa-van-tay-fp330w","-Màu sắc: Bạc
+-Cách mở khóa: remote, 100 vân tay, chìa khóa cơ. Đặt biệt có thể mở khóa bằng Smartphone. Hệ thống sẽ tự động lưu hình ảnh và gửi tin nhắn đến số điện thoại đăng ký
+-Cấu tạo: Hợp kim, phủ Nano
+-Pin: Sử dụng pin AA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu, kết nối pin dự phòng
+-Thích hợp: Phù hợp cho biệt thự, phòng Giám Đốc, căn hộ sang trọng
+-Đố cửa: 38mm (dày) x 100mm (rộng)
+-Kích thước: 352mm (dài) x 76mm (rộng) x 30 mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA
+-Bảo hành: 24 tháng","-Màu sắc: Bạc
+-Cách mở khóa: remote, 100 vân tay, chìa khóa cơ. Đặt biệt có thể mở khóa bằng Smartphone. Hệ thống sẽ tự động lưu hình ảnh và gửi tin nhắn đến số điện thoại đăng ký
+-Cấu tạo: Hợp kim, phủ Nano
+-Pin: Sử dụng pin AA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu, kết nối pin dự phòng
+-Thích hợp: Phù hợp cho biệt thự, phòng Giám Đốc, căn hộ sang trọng
+-Đố cửa: 38mm (dày) x 100mm (rộng)
+-Kích thước: 352mm (dài) x 76mm (rộng) x 30 mm (dày)
+-Thiết kế và công nghệ: AUSTRALIA
+-Bảo hành: 24 tháng","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/FP8330silver-remote.png"
+"WV40","Khóa mã số thẻ cảm ứng MH: WV40","khoa-ma-so-the-cam-ung-wv40","- Mở cửa bằng mật mã, thẻ từ thông minh
+- Chế độ khóa tự động hoặc bằng tay
+- Chống sốc, chống tính điện, chống dò mã
+- Báo cháy, báo chộm khẩn cấp thông qua cảm biến nhiệt và cảm biến điện dung
+- Chống thấm nước, điều chỉnh âm lường bằng màn hình cảm ứng thông minh
+- Chế độ cảnh báo thay pin và chế độ cấp pin dự phòng phía bên ngoài
+- Thiết kế mỏng, đẹp, dễ dàng sử dụng
+- Màn hình cảm ứng full to đẹp. Vô hiệu hóa trong vòng 3 phút khi nhập sai mật mã 5 lần ","- Mở cửa bằng mật mã, thẻ từ thông minh
+- Chế độ khóa tự động hoặc bằng tay
+- Chống sốc, chống tính điện, chống dò mã
+- Báo cháy, báo chộm khẩn cấp thông qua cảm biến nhiệt và cảm biến điện dung
+- Chống thấm nước, điều chỉnh âm lường bằng màn hình cảm ứng thông minh
+- Chế độ cảnh báo thay pin và chế độ cấp pin dự phòng phía bên ngoài
+- Thiết kế mỏng, đẹp, dễ dàng sử dụng
+- Màn hình cảm ứng full to đẹp. Vô hiệu hóa trong vòng 3 phút khi nhập sai mật mã 5 lần ","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/khoa-dien-tu-gateman-wv40-1.jpg"
+"A20-IH","Khóa mã số thẻ cảm ứng MH: A20-IH","khoa-ma-so-the-cam-ung-a20-ih","- Mẫu: Khóa cửa thẻ từ Gateman A20-IH (2way)
+- Công nghệ khóa cửa siêu an toàn, bảo mật ( IRON HOOK )
+- Yêu cầu cửa dày 35 ~ 55 mm
+- Kích thước mặt ngoài: 75mm(W) × 230mm​(H) × 23mm​(D)
+- Kích thước mặt trong: 80mm​(W) × 231mm​(H) × 30mm​(D)
+- Mở cửa bằng: Mật mã / Thẻ từ / Remote ( lựa chọn thêm )
+- Nguồn cung cấp: 1.5V AA Alkaline Pin ( LR6 ) x 4
+- Nguồn khẩn cấp pin 9V x 1 ( được bán riêng )
+- Xuất xứ: Hàn Quốc - Màu sắc: Đen viền Inox","- Mẫu: Khóa cửa thẻ từ Gateman A20-IH (2way)
+- Công nghệ khóa cửa siêu an toàn, bảo mật ( IRON HOOK )
+- Yêu cầu cửa dày 35 ~ 55 mm
+- Kích thước mặt ngoài: 75mm(W) × 230mm​(H) × 23mm​(D)
+- Kích thước mặt trong: 80mm​(W) × 231mm​(H) × 30mm​(D)
+- Mở cửa bằng: Mật mã / Thẻ từ / Remote ( lựa chọn thêm )
+- Nguồn cung cấp: 1.5V AA Alkaline Pin ( LR6 ) x 4
+- Nguồn khẩn cấp pin 9V x 1 ( được bán riêng )
+- Xuất xứ: Hàn Quốc - Màu sắc: Đen viền Inox","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/khoa-dien-tu-gateman-a20ih-0.jpg"
+"WV-60H","Khóa mã số thẻ cảm ứng MH: WV-60H","khoa-ma-so-the-cam-ung-wv-60h","- Mở cửa bằng Mật mã, Thẻ từ, Mở rộng thêm Remore thông qua Module kết nối
+- Màn hình cảm ứng thông minh chống trầy xước, chống in dấu vân tay trên màn hình
+- Chế độ vô hiệu hóa 3 phút khi nhập sai mật mã 5 lần
+- Tính năng khóa cửa tự động sau 3S đóng cửa
+- Tính năng khóa ngàm (Hook) chốt dọc từ trên xuống dưới
+- Thiết kế chất liệu thép đặc biệt, kiểu dáng bắt mắt siêu đẹp, siêu bền, màu vàng Gold
+- Chế độ điều chỉnh âm thanh thông qua công tắc điều khiển
+- Chế độ kích Pin khẩn cấp từ bên ngoài khi hết Pin
+- Báo cháy, báo trộm, báo Pin yếu thông qua hệ thống cảm biến nhiệt, cảm biến điện rung","- Mở cửa bằng Mật mã, Thẻ từ, Mở rộng thêm Remore thông qua Module kết nối
+- Màn hình cảm ứng thông minh chống trầy xước, chống in dấu vân tay trên màn hình
+- Chế độ vô hiệu hóa 3 phút khi nhập sai mật mã 5 lần
+- Tính năng khóa cửa tự động sau 3S đóng cửa
+- Tính năng khóa ngàm (Hook) chốt dọc từ trên xuống dưới
+- Thiết kế chất liệu thép đặc biệt, kiểu dáng bắt mắt siêu đẹp, siêu bền, màu vàng Gold
+- Chế độ điều chỉnh âm thanh thông qua công tắc điều khiển
+- Chế độ kích Pin khẩn cấp từ bên ngoài khi hết Pin
+- Báo cháy, báo trộm, báo Pin yếu thông qua hệ thống cảm biến nhiệt, cảm biến điện rung","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/khoa-cua-ma-so-the-tu-gateman-wv60h-699.jpg"
+"WV-100","Khóa mã số thẻ cảm ứng MH: WV-100","khoa-ma-so-the-cam-ung-wv-100","Kích thước:76.4(w) X 290.4(H) X 27(D)
+BẢO HÀNH: 24 THÁNG
+Chất Liệu: Thép đúc liền khối
+Nhà sản xuất: Gateman ( KOREA )
+Trọng lượng: 4Kg
+Quy cách: Khóa điện tử có tay cầm","Kích thước:76.4(w) X 290.4(H) X 27(D)
+BẢO HÀNH: 24 THÁNG
+Chất Liệu: Thép đúc liền khối
+Nhà sản xuất: Gateman ( KOREA )
+Trọng lượng: 4Kg
+Quy cách: Khóa điện tử có tay cầm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/khoa-cua-ma-so-the-tu-gateman-wv60h-699.jpg"
+"FP6501","Khóa vân tay MH: FP6501","khoa-van-tay-fp6501","Chức năng: Khóa đa chốt. Có chốt độc lập bên trong
+Nguồn: PHGLock - Smart Security
+Màu sắc: Bạc
+Cách mở khóa: Sử dụng 50 mã số, 200 vân tay, 100 thẻ Mifare, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp (2 chìa).
+Cấu tạo: Inox và nhựa acrylic
+Pin: 8 viên pin AA, thời lượng sử dụng pin từ 06 tháng đến 12 tháng tùy vào tần suất sử dụng, có chức năng đèn báo pin yếu và kết nối pin dự phòng qua cổng microUSB.
+Thích hợp: căn hộ cao cấp, nhà phố, biệt thự.
+Đố cửa: 40mm (dày), 110mm (sâu).
+Kích thước: 363mm (dài) x 78mm (rộng) x 26mm (dày)
+Thiết kế và công nghệ: AUSTRALIA
+Bảo hành: 2 năm","Chức năng: Khóa đa chốt. Có chốt độc lập bên trong
+Nguồn: PHGLock - Smart Security
+Màu sắc: Bạc
+Cách mở khóa: Sử dụng 50 mã số, 200 vân tay, 100 thẻ Mifare, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp (2 chìa).
+Cấu tạo: Inox và nhựa acrylic
+Pin: 8 viên pin AA, thời lượng sử dụng pin từ 06 tháng đến 12 tháng tùy vào tần suất sử dụng, có chức năng đèn báo pin yếu và kết nối pin dự phòng qua cổng microUSB.
+Thích hợp: căn hộ cao cấp, nhà phố, biệt thự.
+Đố cửa: 40mm (dày), 110mm (sâu).
+Kích thước: 363mm (dài) x 78mm (rộng) x 26mm (dày)
+Thiết kế và công nghệ: AUSTRALIA
+Bảo hành: 2 năm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/(450x450)_FP6501_1.png"
+"FP5290","Khóa vân tay MH: FP5290","khoa-van-tay-fp5290","Màu sắc: Bạc
+Cách mở khóa: 200 vân tay và chìa khóa cơ trong trường hợp khẩn cấp
+Cấu tạo: Inox 34
+Pin: Sử dụng 4 viên pin AA, thời lượng sử dụng pin từ 6 tháng đến 1 năm tuỳ vào tần suất sử dụng, kết nói pin dự phòng qua cổng micro USB
+Thích hợp: Nhôm XingFa, Euro Window, cửa nhựa lõi thép...
+Kích thước: 293mm (dài) x 38mm (rộng) x 30mm (dày)
+Thiết kế và công nghệ: AUSTRALIA","Màu sắc: Bạc
+Cách mở khóa: 200 vân tay và chìa khóa cơ trong trường hợp khẩn cấp
+Cấu tạo: Inox 34
+Pin: Sử dụng 4 viên pin AA, thời lượng sử dụng pin từ 6 tháng đến 1 năm tuỳ vào tần suất sử dụng, kết nói pin dự phòng qua cổng micro USB
+Thích hợp: Nhôm XingFa, Euro Window, cửa nhựa lõi thép...
+Kích thước: 293mm (dài) x 38mm (rộng) x 30mm (dày)
+Thiết kế và công nghệ: AUSTRALIA","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/(450x450)_FP5290_1.png"
+"FP8161","Khóa vân tay MH: FP8161","khoa-van-tay-fp8161","Chức năng: khóa đôi: khóa bằng 3 chốt. Đóng cửa lại tự khóa, tích hợp chốt an toàn
+Màu sắc: Bạc
+Cách mở khóa: 99 thẻ MF, 32 mã số, 99 vân tay, 01 số chủ, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp. Đặc biệt có chức năng thông hành.
+Cấu tạo: Hợp kim
+Pin: Sử dụng pin AA, Thời lượng sử dụng pin từ 6 tháng đến 1 năm tuỳ vào tần suất sử dụng, có chức năng đèn báo pin yếu
+Thích hợp: căn hộ cao cấp, nhà phố, biệt thự
+Đố cửa: 35mm (dày) x 90mm (rộng)
+Kích thước: 280mm (dài) x 74mm (rộng) x 25mm (dày)
+Thiết kế và công nghệ: AUSTRALIA","Chức năng: khóa đôi: khóa bằng 3 chốt. Đóng cửa lại tự khóa, tích hợp chốt an toàn
+Màu sắc: Bạc
+Cách mở khóa: 99 thẻ MF, 32 mã số, 99 vân tay, 01 số chủ, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp. Đặc biệt có chức năng thông hành.
+Cấu tạo: Hợp kim
+Pin: Sử dụng pin AA, Thời lượng sử dụng pin từ 6 tháng đến 1 năm tuỳ vào tần suất sử dụng, có chức năng đèn báo pin yếu
+Thích hợp: căn hộ cao cấp, nhà phố, biệt thự
+Đố cửa: 35mm (dày) x 90mm (rộng)
+Kích thước: 280mm (dài) x 74mm (rộng) x 25mm (dày)
+Thiết kế và công nghệ: AUSTRALIA","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/(450x450)_FP8161.png"
+"FP8159","Khóa vân tay MH: FP8159","khoa-van-tay-fp8159","Chức năng: Chức năng khóa đôi: Khóa bằng 3 chốt. Nâng tay nắm để bật chốt an toàn khi khóa cửa.
+Màu sắc: Vàng hoặc Bạc.
+Cách mở khóa: 50 thẻ Mifare, 20 mã số, cảm biến 200 vân tay có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp.
+Cấu tạo: Hợp kim.
+Pin: Sử dụng 8 viên pin AAA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu.
+Thích hợp: Căn hộ cao cấp, nhà phố, biệt thự.
+Đố cửa: 40 mm (dày) x 90 mm (rộng).
+Kích thước: 256mm (dài) x 60mm (rộng) x16mm (dày).
+Thiết kế và công nghệ: AUSTRALIA.","Chức năng: Chức năng khóa đôi: Khóa bằng 3 chốt. Nâng tay nắm để bật chốt an toàn khi khóa cửa.
+Màu sắc: Vàng hoặc Bạc.
+Cách mở khóa: 50 thẻ Mifare, 20 mã số, cảm biến 200 vân tay có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp.
+Cấu tạo: Hợp kim.
+Pin: Sử dụng 8 viên pin AAA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu.
+Thích hợp: Căn hộ cao cấp, nhà phố, biệt thự.
+Đố cửa: 40 mm (dày) x 90 mm (rộng).
+Kích thước: 256mm (dài) x 60mm (rộng) x16mm (dày).
+Thiết kế và công nghệ: AUSTRALIA.","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/(450x450)_FP8159_459x450-01.png"
+"FP8080","Khóa vân tay MH: FP8080","khoa-van-tay-fp8080","Khóa Vân Tay cao cấp Màu sắc: Vàng hồng
+Cách mở khóa: 150 vân tay, 150 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp
+Cấu tạo: Hợp kim
+Pin: sử dụng pin AA tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu và kết nối pin dự phòng
+Thích hợp: biệt thự, phòng giám đốc, căn hộ sang trọng
+Đố cửa: 35mm (dày) x 105mm (rộng)
+Kích thước: 665mm (dài) x 85mm (rộng) x 38mm (dày)
+Thiết kế và công nghệ: AUSTRALIA","Khóa Vân Tay cao cấp Màu sắc: Vàng hồng
+Cách mở khóa: 150 vân tay, 150 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp
+Cấu tạo: Hợp kim
+Pin: sử dụng pin AA tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu và kết nối pin dự phòng
+Thích hợp: biệt thự, phòng giám đốc, căn hộ sang trọng
+Đố cửa: 35mm (dày) x 105mm (rộng)
+Kích thước: 665mm (dài) x 85mm (rộng) x 38mm (dày)
+Thiết kế và công nghệ: AUSTRALIA","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/(450x450)_FP8080.png"
+"FP8110","Khóa vân tay MH: FP8110","khoa-van-tay-fp8110","Màu sắc: Vàng, Bạc hoặc Đồng Đỏ
+Cách mở khóa: 300 vân tay, 100 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp
+Cấu tạo: Hợp kim
+Pin: Sử dụng 8 viên pin AA tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu, có kết nối pin dự phòng.
+Thích hợp: Biệt thự, phòng giám đốc, căn hộ sang trọng
+Đố cửa: 42mm (dày) x 105mm (rộng)
+Kích thước: 319mm (dài) x 76mm (rộng) x 28mm (dày)
+Thiết kế và công nghệ: AUSTRALIA","Màu sắc: Vàng, Bạc hoặc Đồng Đỏ
+Cách mở khóa: 300 vân tay, 100 mã số, có chức năng chống dò mã và chìa khóa cơ trong trường hợp khẩn cấp
+Cấu tạo: Hợp kim
+Pin: Sử dụng 8 viên pin AA tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu, có kết nối pin dự phòng.
+Thích hợp: Biệt thự, phòng giám đốc, căn hộ sang trọng
+Đố cửa: 42mm (dày) x 105mm (rộng)
+Kích thước: 319mm (dài) x 76mm (rộng) x 28mm (dày)
+Thiết kế và công nghệ: AUSTRALIA","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/(450x450)_FP8110.png"
+"FP8012","Khóa vân tay MH: FP8012","khoa-van-tay-fp8012","Màu sắc: Vàng, Titan
+Cách mở khóa: 50 vân tay, 32 mã số, chìa khóa cơ
+Cấu tạo: Hợp kim, kiếng cường lực
+Pin: Sử dụng pin AA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có đèn chức năng báo pin yếu
+Thích hợp: Phù hợp cho biệt thự, phòng Giám Đốc, căn hộ sang trọng
+Đố cửa: 35mm (dầy) x 90mm (rộng)
+Kích thước: 285mm x 60mm
+Thiết kế và công nghệ: AUSTRALIA
+Bảo hành: 24 Tháng","Màu sắc: Vàng, Titan
+Cách mở khóa: 50 vân tay, 32 mã số, chìa khóa cơ
+Cấu tạo: Hợp kim, kiếng cường lực
+Pin: Sử dụng pin AA, tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có đèn chức năng báo pin yếu
+Thích hợp: Phù hợp cho biệt thự, phòng Giám Đốc, căn hộ sang trọng
+Đố cửa: 35mm (dầy) x 90mm (rộng)
+Kích thước: 285mm x 60mm
+Thiết kế và công nghệ: AUSTRALIA
+Bảo hành: 24 Tháng","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/(450x450)_FP8012-G-01-01.png"
+"FP3308W","Khóa vân tay MH: FP3308W","khoa-van-tay-fp3308w","Khóa vân tay cao cấp
+Màu sắc: Bạc hoặc Vàng Champange
+Cách mở khóa: 199 vân tay, 8 mật mã, 8 remote và chìa khóa cơ trong trường hợp khẩn cấp
+Cấu tạo: Hợp kim
+Pin: Sử dụng pin AA tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu, kết nối pin dự phòng
+Thích hợp: Phù hợp cho biệt thự, phòng Giám Đốc, căn hộ sang trọng
+Đố cửa: 38mm ( dày) x 100mm (rộng)
+Kích thước: 350mm (dài) x 60mm (rộng) x 30mm (dày)
+Thiết kế và công nghệ: AUSTRALIA
+Bảo hành: 24 tháng","Khóa vân tay cao cấp
+Màu sắc: Bạc hoặc Vàng Champange
+Cách mở khóa: 199 vân tay, 8 mật mã, 8 remote và chìa khóa cơ trong trường hợp khẩn cấp
+Cấu tạo: Hợp kim
+Pin: Sử dụng pin AA tuổi thọ pin từ 6 tháng đến 12 tháng tùy theo tần suất sử dụng, có chức năng đèn báo pin yếu, kết nối pin dự phòng
+Thích hợp: Phù hợp cho biệt thự, phòng Giám Đốc, căn hộ sang trọng
+Đố cửa: 38mm ( dày) x 100mm (rộng)
+Kích thước: 350mm (dài) x 60mm (rộng) x 30mm (dày)
+Thiết kế và công nghệ: AUSTRALIA
+Bảo hành: 24 tháng","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/(450x450)_FP3308-01-01.png"
+"X300-FH","Khóa vân tay MH: X300-FH","khoa-van-tay-x300-fh","LẮP ĐẶT: MIỄN PHÍ
+BẢO HÀNH: 24 THÁNG
+Chất Liệu: Thép đúc liền khối
+Nhà sản xuất:Gateman ( KOREA )
+Quy cách:Khóa cửa vân tay có tay cầm","LẮP ĐẶT: MIỄN PHÍ
+BẢO HÀNH: 24 THÁNG
+Chất Liệu: Thép đúc liền khối
+Nhà sản xuất:Gateman ( KOREA )
+Quy cách:Khóa cửa vân tay có tay cầm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/gateman-x300fh-2.jpg"
+"A330-FH","Khóa vân tay MH: A330-FH","khoa-van-tay-a330-fh","BẢO HÀNH: 24 THÁNG
+Chất Liệu: Thép đúc liền khối
+Nhà sản xuất:Gateman ( KOREA )
+Trọng lượng:4Kg
+Quy cách:Khóa điện tử có tay cầm","BẢO HÀNH: 24 THÁNG
+Chất Liệu: Thép đúc liền khối
+Nhà sản xuất:Gateman ( KOREA )
+Trọng lượng:4Kg
+Quy cách:Khóa điện tử có tay cầm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/kgateman-a330fh-0.jpg"
+"WF-100","Khóa vân tay MH: WF-100","khoa-van-tay-wf-100","Gateman Kích thước: 72(w) X 283(H) X 27(D) mm
+LẮP ĐẶT:  MIỄN PHÍ
+BẢO HÀNH:  24 THÁNG
+Chất Liệu:  Thép đúc liền khối
+Nhà sản xuất: Gateman ( KOREA )
+Trọng lượng: 4Kg
+Quy cách: Khóa điện tử có tay cầm","Gateman Kích thước: 72(w) X 283(H) X 27(D) mm
+LẮP ĐẶT:  MIỄN PHÍ
+BẢO HÀNH:  24 THÁNG
+Chất Liệu:  Thép đúc liền khối
+Nhà sản xuất: Gateman ( KOREA )
+Trọng lượng: 4Kg
+Quy cách: Khóa điện tử có tay cầm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/gateman-wf100-1.jpg"
+"YDM 4109","Khóa vân tay mã số chìa cơ MH: YDM 4109 Ultimate","khoa-van-tay-ma-so-chia-co-ydm-4109-ultimate","Loại khoá có tay cầm
+Vân tay: Tối đa 20
+Chìa khoá: 02
+Mã số: 6-12 ký tự điện tử
+Màu sắc: Đen/ Vàng
+Kích thước thân ngoài: 28.5(D) X 68.6(W) X 320.7(H) mm
+Độ dày cửa : Phù hợp với cửa gỗ hoặc cửa sắt, dày từ 30cm trở lên
+Backset: 60 mm","Loại khoá có tay cầm
+Vân tay: Tối đa 20
+Chìa khoá: 02
+Mã số: 6-12 ký tự điện tử
+Màu sắc: Đen/ Vàng
+Kích thước thân ngoài: 28.5(D) X 68.6(W) X 320.7(H) mm
+Độ dày cửa : Phù hợp với cửa gỗ hoặc cửa sắt, dày từ 30cm trở lên
+Backset: 60 mm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/YDM 4109-wifi-ultimate.jpg"
+"YMG40","Khóa vân tay MH: YMG40","khoa-van-tay-ymg40","Thông số kỹ thuật sản phẩm:
+Mã PIN: 6-12 chữ số
+Màu sắc: Vàng / Bạc
+Mặt trận Body Kích thước: 76 (W) x 359,1 (H) x 67,6 (D) mm
+Trở lại Body Kích thước: 76 (W) x 359,1 (H) x 65.2 (D) mm","Thông số kỹ thuật sản phẩm:
+Mã PIN: 6-12 chữ số
+Màu sắc: Vàng / Bạc
+Mặt trận Body Kích thước: 76 (W) x 359,1 (H) x 67,6 (D) mm
+Trở lại Body Kích thước: 76 (W) x 359,1 (H) x 65.2 (D) mm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/khoa-dien-tu-gateman-wv40-1.jpg"
+"YDM 3109","Khóa vân tay MH: YDM 3109","khoa-van-tay-ydm3109","Khóa tay gạt
+Loại khóa thẻ: 4 (lên đến 40 thẻ)
+Chìa khóa cơ: 2
+Mã PIN: 6-12 số
+Màu: Bạc
+Thông số mặt trước: 27 (D) x 68.6 (W) x 306.6 (H) mm
+Thông số mặt sau: 37.0 (D) x 72.8 (W)  x 306.6 (H)
+Độ dày cửa: thích hợp với cửa sắt và gỗ dày 40-80mm
+Backset: 60 mm","Khóa tay gạt
+Loại khóa thẻ: 4 (lên đến 40 thẻ)
+Chìa khóa cơ: 2
+Mã PIN: 6-12 số
+Màu: Bạc
+Thông số mặt trước: 27 (D) x 68.6 (W) x 306.6 (H) mm
+Thông số mặt sau: 37.0 (D) x 72.8 (W)  x 306.6 (H)
+Độ dày cửa: thích hợp với cửa sắt và gỗ dày 40-80mm
+Backset: 60 mm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/ydm3109a-1470993342.jpg"
+"YDM2106","Khóa mã số thẻ cảm ứng MH: YDM2106","khoa-ma-so-the-cam-ung-ydm2106","Khóa tay gạt
+Chìa i-Button: 4 thẻ
+Khóa cơ: 2 cái
+Mã PIN: 4-12 số
+Màu: Bạc
+Thông số mặt thân: 72 (W) x 304 (H) x 36 (D) mm
+Thích hợp với cửa sắt và cửa gỗ có độ dày 45-55mm
+Backset: 70mm","Khóa tay gạt
+Chìa i-Button: 4 thẻ
+Khóa cơ: 2 cái
+Mã PIN: 4-12 số
+Màu: Bạc
+Thông số mặt thân: 72 (W) x 304 (H) x 36 (D) mm
+Thích hợp với cửa sắt và cửa gỗ có độ dày 45-55mm
+Backset: 70mm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/ydm2106.jpg"
+"YDR3108","Khóa mã số thẻ cảm ứng MH: YDR3108","khoa-ma-so-the-cam-ung-ydr3108","Loại khóa Rim Lock
+Thẻ tiệm cận: 4 thẻ (lên đến 20 thẻ)
+Mã PIN: 4-12 số
+Màu: Bạc
+Thông số mặt trước:  80 (W) x 171 (H) x 23 (D) mm
+Thích hợp với cửa sắt và cửa gỗ độ dày 45-55mm
+Backset: 60-90 mm","Loại khóa Rim Lock
+Thẻ tiệm cận: 4 thẻ (lên đến 20 thẻ)
+Mã PIN: 4-12 số
+Màu: Bạc
+Thông số mặt trước:  80 (W) x 171 (H) x 23 (D) mm
+Thích hợp với cửa sắt và cửa gỗ độ dày 45-55mm
+Backset: 60-90 mm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/YDR 3108.jpg"
+"CW-KB22AVN","Nắp bồn cầu điện tử MH: CW-KB22AVN","nap-bon-cau-dien-tu-cw-kb22avn","Thông tin cơ bản của nắp rửa điện tử CW – KB22AVN
+Mã nắp: CW – KB22AVN
+Công suất điện làm nóng nước: 275W (LOW: ~32oC; MID: ~38oC; HIGH: ~40oC )
+Công suất bệ ngồi: 45W (LOW: ~28oC; MID: ~36oC; HIGH: ~40oC )
+Vòi phun rửa: Vòi phun rửa và vòi phun dùng riêng cho phụ nữ đều là loại trượt tự động. Số lỗ phun: 4 lỗ x 0.8mm
+Điều chỉnh nhiệt độ: Điều chỉnh 6 mức
+Nguồn điện: AC 220V, 336W, 50Hz
+Dung tích két nước nóng: 0.67L
+Thiết bị an toàn: Rơ-le nhiệt.
+Nắp đóng: Êm khít
+Kích thước: 474mm x 149mm x 554mm
+Trọng lượng: ~4.1kg","Thông tin cơ bản của nắp rửa điện tử CW – KB22AVN
+Mã nắp: CW – KB22AVN
+Công suất điện làm nóng nước: 275W (LOW: ~32oC; MID: ~38oC; HIGH: ~40oC )
+Công suất bệ ngồi: 45W (LOW: ~28oC; MID: ~36oC; HIGH: ~40oC )
+Vòi phun rửa: Vòi phun rửa và vòi phun dùng riêng cho phụ nữ đều là loại trượt tự động. Số lỗ phun: 4 lỗ x 0.8mm
+Điều chỉnh nhiệt độ: Điều chỉnh 6 mức
+Nguồn điện: AC 220V, 336W, 50Hz
+Dung tích két nước nóng: 0.67L
+Thiết bị an toàn: Rơ-le nhiệt.
+Nắp đóng: Êm khít
+Kích thước: 474mm x 149mm x 554mm
+Trọng lượng: ~4.1kg","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/Nắp đậy bông cầu điện tử Inax CƯ - KB22AVN.png"
+"CW-H23VN","Nắp bồn cầu điện tử MH: CW-H23VN","nap-bon-cau-dien-tu-cw-h23vn","Thông tin cơ bản của nắp điện tử CW-H23VN
+Mã nắp: CW-H23VN
+Công suất điện làm nóng nước: 250W (LOW: ~32oC; MID: ~38oC; HIGH: ~40oC )
+Công suất bệ ngồi: 45W (LOW: ~28oC; MID: ~36oC; HIGH: ~40oC )
+Số vòi phun: Phun rửa: 1.32mm x 2 lỗ
+Chức năng bidet: 0.9mm x 10 lỗ
+Điều chỉnh nhiệt độ: Có 4 mức để lựa chọn (được điều chỉnh bằng điện tử)
+Nguồn điện: AC 220V, 336W, 50Hz
+Dung tích két nước nóng: 0, 88 lít
+Thiết bị an toàn:Rơ-le nhiệt, phao ngắt để thiết bị dừng hoạt động khi không đủ nước, cảm ứng từ kiểm soát nhiệt độ cao.
+Nắp đóng: Êm khít
+Kích thước: 491mm x 150mm x 547mm
+Trọng lượng: ~ 4kg","Thông tin cơ bản của nắp điện tử CW-H23VN
+Mã nắp: CW-H23VN
+Công suất điện làm nóng nước: 250W (LOW: ~32oC; MID: ~38oC; HIGH: ~40oC )
+Công suất bệ ngồi: 45W (LOW: ~28oC; MID: ~36oC; HIGH: ~40oC )
+Số vòi phun: Phun rửa: 1.32mm x 2 lỗ
+Chức năng bidet: 0.9mm x 10 lỗ
+Điều chỉnh nhiệt độ: Có 4 mức để lựa chọn (được điều chỉnh bằng điện tử)
+Nguồn điện: AC 220V, 336W, 50Hz
+Dung tích két nước nóng: 0, 88 lít
+Thiết bị an toàn:Rơ-le nhiệt, phao ngắt để thiết bị dừng hoạt động khi không đủ nước, cảm ứng từ kiểm soát nhiệt độ cao.
+Nắp đóng: Êm khít
+Kích thước: 491mm x 150mm x 547mm
+Trọng lượng: ~ 4kg","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/Nắp điện tử inax CW-H23VN.jpg"
+"CW-H17VN","Nắp bồn cầu điện tử MH: CW-H17VN","nap-bon-cau-dien-tu-cw-h17vn","Thông tin chi tiết nắp bàn cầu Shower toilet CW-H17VN
+Mã sản phẩm:CW-H17VN
+Tên sản phẩm:Nắp đậy bồn cầu điện tử Shower toilet
+Số lỗ phun:6 lỗ x 0,8mm
+Điều chỉnh nhiệt độ nước:6 mức điều chỉnh
+Nhiệt độ nước nóng:Từ 320C - 400C
+Thiết bị an toàn: Rơ le nhiệt
+Công nghệ:Hyperkilamic kháng khuẩn
+Nhiệt độ bệ ngồi:6 mức điều chỉnh (300C - 400C)
+Trọng lượng:~ 4 kg
+Nguồn điện:AC 220V; 50/60Hz; 300W
+Áp suất nước cấp:0.06-0.75MPa
+Nước cấp:Nối trực tiếp từ đường ống
+Màu sắc#:Trắng (white)
+Kích thước (RxCxD):472 x 173 x 536 mm","Thông tin chi tiết nắp bàn cầu Shower toilet CW-H17VN
+Mã sản phẩm:CW-H17VN
+Tên sản phẩm:Nắp đậy bồn cầu điện tử Shower toilet
+Số lỗ phun:6 lỗ x 0,8mm
+Điều chỉnh nhiệt độ nước:6 mức điều chỉnh
+Nhiệt độ nước nóng:Từ 320C - 400C
+Thiết bị an toàn: Rơ le nhiệt
+Công nghệ:Hyperkilamic kháng khuẩn
+Nhiệt độ bệ ngồi:6 mức điều chỉnh (300C - 400C)
+Trọng lượng:~ 4 kg
+Nguồn điện:AC 220V; 50/60Hz; 300W
+Áp suất nước cấp:0.06-0.75MPa
+Nước cấp:Nối trực tiếp từ đường ống
+Màu sắc#:Trắng (white)
+Kích thước (RxCxD):472 x 173 x 536 mm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/NẮP ĐIỆN TỬ SHOWER TOILET INAX CW-H17VN.png"
+"AC-959A/CW-H17VN","Bồn cầu 1 khối nắp điện tử MH: AC-959A/CW-H17VN","bon-cau-1-khoi-nap-dien-tu-cw-h17vn","Thông tin cơ bản của bàn cầu một khối Inax nắp điện tử:
+Tên sản phẩm: Bàn cầu 1 khối nắp điện tử
+Mã sản phẩm: AC-959A/CW-H17VN
+Lượng nước xả: Xả nhấn 6L/4L
+Kiểu xả: Xả xiphong
+Áp suất nước cấp: 0.06MPa ~ 0.75MPa
+Nguồn điện:  AC 220V; 50/60Hz; 300W
+Màu sắc: Màu trắng#
+Khối lượng của nắp: ~ 4 Kg
+Kích thước nắp: 472 x 173 x 536 mm","Thông tin cơ bản của bàn cầu một khối Inax nắp điện tử:
+Tên sản phẩm: Bàn cầu 1 khối nắp điện tử
+Mã sản phẩm: AC-959A/CW-H17VN
+Lượng nước xả: Xả nhấn 6L/4L
+Kiểu xả: Xả xiphong
+Áp suất nước cấp: 0.06MPa ~ 0.75MPa
+Nguồn điện:  AC 220V; 50/60Hz; 300W
+Màu sắc: Màu trắng#
+Khối lượng của nắp: ~ 4 Kg
+Kích thước nắp: 472 x 173 x 536 mm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/thumb_bon-cau-1-khoi-nap-dien-tu-inax-ac-959a-cw-h17vn_1550378442.jpg"
+"AC-959/CW-KB22AVN","Bồn cầu 1 khối nắp điện tử MH: AC-959/CW-KB22AVN","bon-cau-1-khoi-nap-dien-tu-cw-kb22avn","Thông tin cơ bản của bàn cầu một khối Inax nắp điện tử:
+Tên sản phẩm: Bàn cầu 1 khối nắp điện tử
+Mã sản phẩm: AC-959A/CW-KB22A
+Lượng nước xả: Xả nhấn 6L/4L
+Kiểu xả: Xả xiphong
+Áp suất nước cấp: 0,06 – 0,74MPa (0,6 – 7.5kgf/cm2)
+Màu sắc: Màu trắng#
+Khối lượng của nắp: ~ 4 Kg
+Kích thước nắp: 421 x 149 x 554 mm","Thông tin cơ bản của bàn cầu một khối Inax nắp điện tử:
+Tên sản phẩm: Bàn cầu 1 khối nắp điện tử
+Mã sản phẩm: AC-959A/CW-KB22A
+Lượng nước xả: Xả nhấn 6L/4L
+Kiểu xả: Xả xiphong
+Áp suất nước cấp: 0,06 – 0,74MPa (0,6 – 7.5kgf/cm2)
+Màu sắc: Màu trắng#
+Khối lượng của nắp: ~ 4 Kg
+Kích thước nắp: 421 x 149 x 554 mm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/KR8159-Khóa-điện-tử.png"
+"AC-22P/CW-H18VN",",Bồn cầu treo nắp điện tử MH: AC-22P/CW-H18VN","bon-cau-treo-nap-dien-tu-ac-22pcw-h18vn","Thông tin cơ bản của bàn cầu AC-22P/CW-H18VN
+Mã sản phẩm: AC-22P/CW-H18VN
+Tên sản phẩm:  Bàn cầu treo tường nắp điện tử
+Lượng nước xả: 8.0L
+Màu sắc: Màu trắng
+Áp lực nước: 0.0MPa ~ 0.7MPa
+Kích thước: 336 x 640 x 365mm","Thông tin cơ bản của bàn cầu AC-22P/CW-H18VN
+Mã sản phẩm: AC-22P/CW-H18VN
+Tên sản phẩm:  Bàn cầu treo tường nắp điện tử
+Lượng nước xả: 8.0L
+Màu sắc: Màu trắng
+Áp lực nước: 0.0MPa ~ 0.7MPa
+Kích thước: 336 x 640 x 365mm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/thumb_bon-cau-treo-tuong-nap-dien-tu-ac-22p-cw-h18vn_1550387104.jpg"
+"AC-22P/CW-H17VN","Bồn cầu treo nắp điện tử MH: AC-22P/CW-H17VN","bon-cau-treo-nap-dien-tu-ac-22pcw-h17vn","Thông tin cơ bản của bàn cầu AC-22P/CW-H17VN
+Mã sản phẩm: AC-22P/CW-H17VN
+Tên sản phẩm:  Bàn cầu treo tường nắp điện tử
+Lượng nước xả: 8.0L
+Màu sắc: Màu trắng
+Áp lực nước: 0.0MPa ~ 0.7MPa
+Kích thước: 336 x 640 x 365mm","Thông tin cơ bản của bàn cầu AC-22P/CW-H17VN
+Mã sản phẩm: AC-22P/CW-H17VN
+Tên sản phẩm:  Bàn cầu treo tường nắp điện tử
+Lượng nước xả: 8.0L
+Màu sắc: Màu trắng
+Áp lực nước: 0.0MPa ~ 0.7MPa
+Kích thước: 336 x 640 x 365mm","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/thumb_bon-cau-treo-tuong-nap-dien-tu-ac-22p-cw-h17vn_1550386948.jpg"
+"BDKTT","Bộ điều khiển trung tâm","bo-dieu-khien-trung-tam","Mô tả: Là bộ não của ngôi nhà thông minh, tích hợp công nghệ truyền thông không dây Zigbee cho phép: Kết nối và quản lý các thiết bị điện, lưu trữ các thông tin cấu hình cài đặt của người dùng, cập nhật trạng thái các thiết bị cho người sử dụng
+Điện áp: 5Vdc - 1A
+Nhiệt độ hoạt động: 75ºC max
+Sử dụng công nghệ truyền thông không dây Zigbee, tiêu chuẩn 802.15.4 – sử dụng tín hiệu radio có tần sóng ngắn, có 2 tầng và vận hành trong vùng bảo mật của hệ thống. Tuyệt đối an toàn cho ngôi nhà của bạn trước những tác nhân xấu
+Chức năng:
+- Điều khiển thông minh bằng giọng nói
+- Chiếu sáng thông minh
+- Điểu khiển điều hòa và tivi thông minh
+- Điều khiển rèm tự động
+- An ninh chống trộm
+- Hệ thống âm thanh đa vùng
+- Đèn Led 16 triệu màu
+- Kiểm soát môi trường
+- Bật tắt bình nóng lạnh","Mô tả: Là bộ não của ngôi nhà thông minh, tích hợp công nghệ truyền thông không dây Zigbee cho phép: Kết nối và quản lý các thiết bị điện, lưu trữ các thông tin cấu hình cài đặt của người dùng, cập nhật trạng thái các thiết bị cho người sử dụng
+Điện áp: 5Vdc - 1A
+Nhiệt độ hoạt động: 75ºC max
+Sử dụng công nghệ truyền thông không dây Zigbee, tiêu chuẩn 802.15.4 – sử dụng tín hiệu radio có tần sóng ngắn, có 2 tầng và vận hành trong vùng bảo mật của hệ thống. Tuyệt đối an toàn cho ngôi nhà của bạn trước những tác nhân xấu
+Chức năng:
+- Điều khiển thông minh bằng giọng nói
+- Chiếu sáng thông minh
+- Điểu khiển điều hòa và tivi thông minh
+- Điều khiển rèm tự động
+- An ninh chống trộm
+- Hệ thống âm thanh đa vùng
+- Đèn Led 16 triệu màu
+- Kiểm soát môi trường
+- Bật tắt bình nóng lạnh","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/thumb_bon-cau-treo-tuong-nap-dien-tu-ac-22p-cw-h17vn_1550386948.jpg"
+"CTCCC","Công tắc chạm cảm ứng","cong-tac-cham-cam-ung","Mô tả: Là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, công nghệ không dây Zigbee, mặt kính cường lực, chống xước, chống va đập, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự tinh tế, sang trọng, đẳng cấp
+- Điện áp: 150 - 250 VAC
+- Nhiệt độ hoạt động: 0 - 40ºC max
+- Công suất: 700w(Đèn sợi đốt)-150w(Đèn led)/1 nút
+- Kích thước: Hình vuông (95 x 95 mm) - Hình chữ nhật (121,5 x 80 mm)","Mô tả: Là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, công nghệ không dây Zigbee, mặt kính cường lực, chống xước, chống va đập, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự tinh tế, sang trọng, đẳng cấp
+- Điện áp: 150 - 250 VAC
+- Nhiệt độ hoạt động: 0 - 40ºC max
+- Công suất: 700w(Đèn sợi đốt)-150w(Đèn led)/1 nút
+- Kích thước: Hình vuông (95 x 95 mm) - Hình chữ nhật (121,5 x 80 mm)","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/thumb_bon-cau-treo-tuong-nap-dien-tu-ac-22p-cw-h17vn_1550386948.jpg"
+"CBC","Cảm biến cửa","cam-bien-cua","Mô tả: Phát hiện đóng mở cửa trái phép, kích hoạt hệ thống các thiết bị nào như: còi hú, đèn xoáy, mở rèm, bật đèn sáng … đồng thời cảnh báo lên ứng dụng trên điện thoại hoặc máy tính bảng. Cảm biến sử dụng công nghệ không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao. Mặt khác, cảm biến phát hiện chuyển động còn tích hợp sẵn bên trong cảm biến môi trường để đo các thông tin như: nhiệt độ, độ ẩm, ánh sáng ... giúp tạo không gian trong lành, đảm bảo sức khỏe tốt nhất cho gia đình bạn.
+Điện áp: Pin CR2477 - 3V
+Nhiệt độ hoạt động: 50ºC Max","Mô tả: Phát hiện đóng mở cửa trái phép, kích hoạt hệ thống các thiết bị nào như: còi hú, đèn xoáy, mở rèm, bật đèn sáng … đồng thời cảnh báo lên ứng dụng trên điện thoại hoặc máy tính bảng. Cảm biến sử dụng công nghệ không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao. Mặt khác, cảm biến phát hiện chuyển động còn tích hợp sẵn bên trong cảm biến môi trường để đo các thông tin như: nhiệt độ, độ ẩm, ánh sáng ... giúp tạo không gian trong lành, đảm bảo sức khỏe tốt nhất cho gia đình bạn.
+Điện áp: Pin CR2477 - 3V
+Nhiệt độ hoạt động: 50ºC Max","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/thumb_bon-cau-treo-tuong-nap-dien-tu-ac-22p-cw-h17vn_1550386948.jpg"
+"CBPHCD","Cảm biến phát hiện chuyển động","cam-bien-phat-hien-chuyen-dong","Mô tả: Tự động bật/tắt đèn khi phát hiện chuyển động, cảm biến môi trường còn đóng vai trò là ""người bác sỹ"" đo nhiệt độ, ánh sáng, độ ẩm … trong ngôi nhà của bạn. Ngoài ra, cảm biến còn được tích hợp trong giải pháp an ninh như: kích hoạt còi hú, bật đèn… khi phát hiện sự xâm nhập trái phép.
+Điện áp: Pin Lithium 3.6V 2.6Ah
+Nhiệt độ hoạt động: 60ºC Max","Mô tả: Tự động bật/tắt đèn khi phát hiện chuyển động, cảm biến môi trường còn đóng vai trò là ""người bác sỹ"" đo nhiệt độ, ánh sáng, độ ẩm … trong ngôi nhà của bạn. Ngoài ra, cảm biến còn được tích hợp trong giải pháp an ninh như: kích hoạt còi hú, bật đèn… khi phát hiện sự xâm nhập trái phép.
+Điện áp: Pin Lithium 3.6V 2.6Ah
+Nhiệt độ hoạt động: 60ºC Max","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/thumb_bon-cau-treo-tuong-nap-dien-tu-ac-22p-cw-h17vn_1550386948.jpg"
+"OCVN","Ổ cắm viền nhôm","o-cam-vien-nhom","Nguồn cấp: 100-240V 50/60Hz
+Công suất: 16A
+Kiểu dáng: Hình vuông/ Hình chữ nhật
+Màu sắc: Đen/ Trắng","Nguồn cấp: 100-240V 50/60Hz
+Công suất: 16A
+Kiểu dáng: Hình vuông/ Hình chữ nhật
+Màu sắc: Đen/ Trắng","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/thumb_bon-cau-treo-tuong-nap-dien-tu-ac-22p-cw-h17vn_1550386948.jpg"
+"AMLYLUMI","Âm Ly Lumi","am-ly-lumi","Mô tả: Amply có chức năng khuếch đại tín hiệu xử lý hay nguồn điện tăng lên ra các tín hiệu đầu ra. Công dụng và chức năng của amply tự cung cấp nguồn điện cho các loa. Ví dụ như (hệ thống loa âm trần nghe nhạc) Amply sử dụng công nghệ truyền thông không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao.
+Điện áp: 19A, 3.4A
+Bảo hành: 24 tháng","Mô tả: Amply có chức năng khuếch đại tín hiệu xử lý hay nguồn điện tăng lên ra các tín hiệu đầu ra. Công dụng và chức năng của amply tự cung cấp nguồn điện cho các loa. Ví dụ như (hệ thống loa âm trần nghe nhạc) Amply sử dụng công nghệ truyền thông không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao.
+Điện áp: 19A, 3.4A
+Bảo hành: 24 tháng","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/thumb_bon-cau-treo-tuong-nap-dien-tu-ac-22p-cw-h17vn_1550386948.jpg"
+"BCUHN","Bộ cảm ứng hồng ngoại","bo-cam-ung-hong-ngoai","Mô tả: Thay vì điều khiển điều hòa, tivi qua remote cầm tay, cảm biến hồng ngoại Lumi sẽ giúp bạn có thể điều khiển qua điện thoại. Sử dụng công nghệ sóng không dây Zigbee, việc lắp đặt sẽ trở nên nhanh chóng và dễ dàng. Kết hợp cùng giải pháp khác để lên lịch bật tắt hay điều khiển nhiệt độ điều hòa theo thời gian.
+Điện áp: 5VDC
+Nhiệt độ hoạt động: 50ºC Max","Mô tả: Thay vì điều khiển điều hòa, tivi qua remote cầm tay, cảm biến hồng ngoại Lumi sẽ giúp bạn có thể điều khiển qua điện thoại. Sử dụng công nghệ sóng không dây Zigbee, việc lắp đặt sẽ trở nên nhanh chóng và dễ dàng. Kết hợp cùng giải pháp khác để lên lịch bật tắt hay điều khiển nhiệt độ điều hòa theo thời gian.
+Điện áp: 5VDC
+Nhiệt độ hoạt động: 50ºC Max","publish","0","visible","instock","http://xsmart.local/wp-content/uploads/2019/03/thumb_bon-cau-treo-tuong-nap-dien-tu-ac-22p-cw-h17vn_1550386948.jpg"
